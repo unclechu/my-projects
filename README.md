@@ -20,6 +20,8 @@
 - [radio-class](https://github.com/unclechu/py-radio-class)  
   Event-bus implementation inspired by
   [backbone.radio](https://github.com/marionettejs/backbone.radio).
+- [gpaste-zenity](https://github.com/unclechu/gpaste-zenity)  
+  A GUI for management [GPaste](https://github.com/Keruspe/GPaste) history.
 
 ## Configs
 - [bashrc](https://github.com/unclechu/bashrc)  
@@ -69,7 +71,6 @@
 - [avto-lux161](https://github.com/unclechu/avto-lux161)
 - [js-react-redux-handle-typed-actions-experiment](https://github.com/unclechu/js-react-redux-handle-typed-actions-experiment)
 - [haskell-boids](https://github.com/unclechu/haskell-boids)
-- [gpaste-zenity](https://github.com/unclechu/gpaste-zenity)
 - [xkb-perm-layout](https://github.com/unclechu/xkb-perm-layout)
 - [vim-ctrlspace](https://github.com/unclechu/vim-ctrlspace)
 - [xlib-keys-combo-simulator](https://github.com/unclechu/xlib-keys-combo-simulator)
@@ -139,6 +140,7 @@
 - [tmuxrc](https://github.com/unclechu/tmuxrc)
 
 ### Bash
+- [gpaste-zenity](https://github.com/unclechu/gpaste-zenity)
 - [bashrc](https://github.com/unclechu/bashrc)
 
 ## Purpose
