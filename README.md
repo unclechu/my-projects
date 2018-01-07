@@ -1,5 +1,4 @@
 # My repos
-
 - [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack)  
   An utility that read bare events from GNU/Linux device file descriptor of
   a keyboard and triggers fake X11 events, improves experience of using keyboard.
@@ -16,40 +15,67 @@
 - [midihaskey](https://github.com/metachronica/audio-midihaskey)  
   Virtual MIDI keyboard for microtonal music.
   **Work in progress (not ready to use yet)!**
+- [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)  
+  My own pedalboard implementation that works on Raspberry Pi.
 - [radio-class](https://github.com/unclechu/py-radio-class)  
   Event-bus implementation inspired by
   [backbone.radio](https://github.com/marionettejs/backbone.radio).
 
+## Configs
+- [bashrc](https://github.com/unclechu/bashrc)  
+  My own [Bash](https://www.gnu.org/software/bash/) config.
+  Includes some helpful apps.
+- [tmuxrc](https://github.com/unclechu/tmuxrc)  
+  My own [tmux](https://tmux.github.io/) config.
+- [termiterc](https://github.com/unclechu/termiterc)  
+  My own [termite terminal emulator](https://github.com/thestinger/termite) config.
+- [konsolerc](https://github.com/unclechu/konsolerc)  
+  My own [Konsole terminal emulator](http://konsole.kde.org/) config.
+- [terminatorrc](https://github.com/unclechu/terminatorrc)  
+  My own [Terminator terminal emulator](https://code.google.com/p/jessies/wiki/Terminator) config.
+- [neovimrc](https://github.com/unclechu/neovimrc)  
+  My own [Neovim](https://neovim.io/) config with a lot of customizations.  
+  Deprecated:
+  - [vimrc2](https://github.com/unclechu/vimrc2)
+  - [vimrc](https://github.com/unclechu/vimrc)
+- [i3rc](https://github.com/unclechu/i3rc)  
+  My own [i3 X11 window manager](https://i3wm.org/) config.  
+  Additional:
+  - [unclechu-i3-status](https://github.com/unclechu/unclechu-i3-status)  
+    My own implementation of status bar for **i3** that works with
+    [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack) IPC.
+- [xmonadrc](https://github.com/unclechu/xmonadrc)  
+  My own [xmonad X11 window manager](http://xmonad.org/) config.  
+  Also includes:
+  - My own config for [xmobar](http://xmobar.org/).
+  - An application that generates indicators for **xmobar** that comes from
+    [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack) IPC.
+- [openboxrc](https://github.com/unclechu/openboxrc)  
+  My own [Openbox X11 window manager](http://openbox.org/) config.
+- [XCompose](https://github.com/unclechu/XCompose)  
+  My own [X11 Compose](https://www.x.org/releases/X11R7.7/doc/man/man5/Compose.5.xhtml) shortcuts.
+- [X11-my-custom-layouts](https://github.com/unclechu/X11-my-custom-layouts)  
+  My own keyboard layouts which was attempt to implement custom keyboard behavior
+  but this wasn't succeed because many applications just ignore these layouts
+  and uses bare key codes.  
+  Deprecated by: [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack).
+
 ## **TODO**: add description
-- [neovimrc](https://github.com/unclechu/neovimrc)
-- [i3rc](https://github.com/unclechu/i3rc)
 - [sibtek-site](https://github.com/unclechu/sibtek-site)
 - [lushtags](https://github.com/unclechu/lushtags)
 - [haskell-experiment-shared-library-for-c-application](https://github.com/unclechu/haskell-experiment-shared-library-for-c-application)
-- [unclechu-i3-status](https://github.com/unclechu/unclechu-i3-status)
-- [bashrc](https://github.com/unclechu/bashrc)
-- [tmuxrc](https://github.com/unclechu/tmuxrc)
 - [my-ultisnips](https://github.com/unclechu/my-ultisnips)
-- [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
-- [xmonadrc](https://github.com/unclechu/xmonadrc)
 - [node-deep-extend](https://github.com/unclechu/node-deep-extend)
 - [avto-lux161](https://github.com/unclechu/avto-lux161)
 - [js-react-redux-handle-typed-actions-experiment](https://github.com/unclechu/js-react-redux-handle-typed-actions-experiment)
-- [termiterc](https://github.com/unclechu/termiterc)
-- [konsolerc](https://github.com/unclechu/konsolerc)
-- [openboxrc](https://github.com/unclechu/openboxrc)
 - [haskell-boids](https://github.com/unclechu/haskell-boids)
-- [vimrc](https://github.com/unclechu/vimrc)
-- [vimrc2](https://github.com/unclechu/vimrc2)
 - [gpaste-zenity](https://github.com/unclechu/gpaste-zenity)
-- [X11-my-custom-layouts](https://github.com/unclechu/X11-my-custom-layouts)
 - [xkb-perm-layout](https://github.com/unclechu/xkb-perm-layout)
 - [vim-ctrlspace](https://github.com/unclechu/vim-ctrlspace)
 - [xlib-keys-combo-simulator](https://github.com/unclechu/xlib-keys-combo-simulator)
 - [xlib-escape-key-hack](https://github.com/unclechu/xlib-escape-key-hack)
 - [jquery.dragndrop-file-upload](https://github.com/unclechu/jquery.dragndrop-file-upload)
 - [node-jack-connector](https://github.com/unclechu/node-jack-connector)
-- [terminatorrc](https://github.com/unclechu/terminatorrc)
 - [crop-detector](https://github.com/unclechu/crop-detector)
 - [front-end-gulp](https://github.com/unclechu/front-end-gulp)
 - [xlib-keyboard-hack](https://github.com/unclechu/xlib-keyboard-hack)
@@ -60,7 +86,6 @@
 - [ucoz-uhackathon-usheet](https://github.com/unclechu/ucoz-uhackathon-usheet)
 - [xinput-restore](https://github.com/unclechu/xinput-restore)
 - [berry-guitar-processor](https://github.com/unclechu/metachronica-berry-guitar-processor)
-- [XCompose](https://github.com/unclechu/XCompose)
 - [node-less-watcher](https://github.com/unclechu/node-less-watcher)
 - [test-01](https://github.com/unclechu/test-01)
 - [js-useful-umd-modules](https://github.com/unclechu/js-useful-umd-modules)
@@ -97,13 +122,24 @@
 - [place-cursor-at](https://github.com/unclechu/place-cursor-at)
 - [qm-interpolated-string](https://github.com/unclechu/haskell-qm-interpolated-string)
 - [midihaskey](https://github.com/metachronica/audio-midihaskey)
+- [unclechu-i3-status](https://github.com/unclechu/unclechu-i3-status)
+- [xmonadrc](https://github.com/unclechu/xmonadrc)
 
 ### ANSI C
 - [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)
 - [bit-crusher](https://github.com/unclechu/lv2-ladspa-bit-crusher)
+- [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
 
 ### Python
+- [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
 - [radio-class](https://github.com/unclechu/py-radio-class)
+
+### Perl
+- [bashrc](https://github.com/unclechu/bashrc)
+- [tmuxrc](https://github.com/unclechu/tmuxrc)
+
+### Bash
+- [bashrc](https://github.com/unclechu/bashrc)
 
 ## Purpose
 
@@ -111,9 +147,12 @@
 - [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)
 - [bit-crusher](https://github.com/unclechu/lv2-ladspa-bit-crusher)
 - [midihaskey](https://github.com/metachronica/audio-midihaskey)
+- [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
 
 ### Hacking of work environment
-- [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack)
+- [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack)  
+  Deprecated:
+  - [X11-my-custom-layouts](https://github.com/unclechu/X11-my-custom-layouts)
 - [place-cursor-at](https://github.com/unclechu/place-cursor-at)
 
 ## Libraries
