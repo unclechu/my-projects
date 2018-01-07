@@ -15,6 +15,16 @@
 - [midihaskey](https://github.com/metachronica/audio-midihaskey)  
   Virtual MIDI keyboard for microtonal music.
   **Work in progress (not ready to use yet)!**
+- [stereo-mixer](https://github.com/unclechu/lv2-stereo-mixer)  
+  **TODO** add description
+- [signal-pusher](https://github.com/unclechu/faust-signal-pusher)  
+  **TODO** add description
+- [channel-delay](https://github.com/unclechu/faust-channel-delay) (Faust)  
+  **TODO** add description
+- [channel-delay](https://github.com/unclechu/lv2-channel-delay) (ANSI C)  
+  **TODO** add description
+- [jacktoalsa](https://github.com/unclechu/jacktoalsa)  
+  **TODO** add description
 - [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)  
   My own pedalboard implementation that works on Raspberry Pi.
 - [radio-class](https://github.com/unclechu/py-radio-class)  
@@ -83,7 +93,6 @@
 - [liveify-stable](https://github.com/unclechu/liveify-stable)
 - [wi-site](https://github.com/unclechu/wi-site)
 - [guitarix](https://github.com/unclechu/guitarix)
-- [faust-signal-pusher](https://github.com/unclechu/faust-signal-pusher)
 - [ucoz-uhackathon-usheet](https://github.com/unclechu/ucoz-uhackathon-usheet)
 - [xinput-restore](https://github.com/unclechu/xinput-restore)
 - [berry-guitar-processor](https://github.com/unclechu/metachronica-berry-guitar-processor)
@@ -95,16 +104,12 @@
 - [LiveScript-logo](https://github.com/unclechu/LiveScript-logo)
 - [gulp-umd](https://github.com/unclechu/gulp-umd)  
   https://github.com/eduardolundgren/gulp-umd/pull/5
-- [faust-channel-delay](https://github.com/unclechu/faust-channel-delay)
-- [lv2-channel-delay](https://github.com/unclechu/lv2-channel-delay)
 - [bitrix-advanced-form](https://github.com/unclechu/bitrix-advanced-form)
 - [web-front-end-grunt-template](https://github.com/unclechu/web-front-end-grunt-template)
 - [umd](https://github.com/unclechu/umd)
 - [web-front-end-experiment](https://github.com/unclechu/web-front-end-experiment)
-- [stereo-mixer](https://github.com/unclechu/lv2-stereo-mixer)
 - [three.js-box-panorama](https://github.com/unclechu/three.js-box-panorama)
 - [three.js-sphere-panorama](https://github.com/unclechu/three.js-sphere-panorama)
-- [jacktoalsa](https://github.com/unclechu/jacktoalsa)
 - [node-http-markup-server](https://github.com/unclechu/node-http-markup-server)
 - [grunt-amdwrap](https://github.com/unclechu/grunt-amdwrap)
 - [node-njst](https://github.com/unclechu/node-njst)
@@ -113,6 +118,8 @@
 - [lor-ponificator](https://github.com/unclechu/lor-ponificator)
 - [backlight_management](https://github.com/unclechu/backlight_management)
 - [minecraft-start-server](https://github.com/unclechu/minecraft-start-server)
+
+## TODO Gists
 
 # Categorization
 
@@ -129,7 +136,14 @@
 ### ANSI C
 - [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)
 - [bit-crusher](https://github.com/unclechu/lv2-ladspa-bit-crusher)
+- [stereo-mixer](https://github.com/unclechu/lv2-stereo-mixer)
+- [channel-delay](https://github.com/unclechu/lv2-channel-delay)
+- [jacktoalsa](https://github.com/unclechu/jacktoalsa)
 - [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
+
+### Faust
+- [signal-pusher](https://github.com/unclechu/faust-signal-pusher)
+- [channel-delay](https://github.com/unclechu/faust-channel-delay)
 
 ### Python
 - [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
@@ -149,7 +163,24 @@
 - [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)
 - [bit-crusher](https://github.com/unclechu/lv2-ladspa-bit-crusher)
 - [midihaskey](https://github.com/metachronica/audio-midihaskey)
+- [stereo-mixer](https://github.com/unclechu/lv2-stereo-mixer)
+- [signal-pusher](https://github.com/unclechu/faust-signal-pusher)
+- [channel-delay](https://github.com/unclechu/faust-channel-delay) (Faust)
+- [channel-delay](https://github.com/unclechu/lv2-channel-delay) (ANSI C)
+- [jacktoalsa](https://github.com/unclechu/jacktoalsa)
 - [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
+
+#### MIDI
+- [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)
+- [midihaskey](https://github.com/metachronica/audio-midihaskey)
+
+#### LV2
+- [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)
+- [bit-crusher](https://github.com/unclechu/lv2-ladspa-bit-crusher)
+- [stereo-mixer](https://github.com/unclechu/lv2-stereo-mixer)
+- [signal-pusher](https://github.com/unclechu/faust-signal-pusher)
+- [channel-delay](https://github.com/unclechu/faust-channel-delay) (Faust)
+- [channel-delay](https://github.com/unclechu/lv2-channel-delay) (ANSI C)
 
 ### Hacking of work environment
 - [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack)  
