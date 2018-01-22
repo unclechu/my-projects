@@ -72,6 +72,10 @@
   and uses bare key codes.  
   Deprecated by: [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack).
 
+## Repos I have contributed to
+- [livescript/artwork](https://github.com/livescript/artwork)  
+  I've redrawn rasterized LiveScript logo into SVG two vector versions.
+
 ## **TODO**: add description
 - [sibtek-site](https://github.com/unclechu/sibtek-site)
 - [lushtags](https://github.com/unclechu/lushtags)
@@ -101,7 +105,6 @@
 - [js-useful-umd-modules](https://github.com/unclechu/js-useful-umd-modules)
 - [challenge-01](https://github.com/unclechu/challenge-01)
 - [web-front-end-deploy](https://github.com/unclechu/web-front-end-deploy)
-- [LiveScript-logo](https://github.com/unclechu/LiveScript-logo)
 - [gulp-umd](https://github.com/unclechu/gulp-umd)  
   https://github.com/eduardolundgren/gulp-umd/pull/5
 - [bitrix-advanced-form](https://github.com/unclechu/bitrix-advanced-form)
