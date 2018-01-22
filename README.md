@@ -73,8 +73,10 @@
   Deprecated by: [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack).
 
 ## Repos I have contributed to
+- [metachronica/logo](https://github.com/metachronica/logo)  
+  I've drawn cyrillic text for the Metachronica logo.
 - [livescript/artwork](https://github.com/livescript/artwork)  
-  I've redrawn rasterized LiveScript logo into SVG two vector versions.
+  I've redrawn rasterized LiveScript logo into two SVG vector versions.
 
 ## **TODO**: add description
 - [sibtek-site](https://github.com/unclechu/sibtek-site)
@@ -136,6 +138,9 @@
 - [unclechu-i3-status](https://github.com/unclechu/unclechu-i3-status)
 - [xmonadrc](https://github.com/unclechu/xmonadrc)
 
+### C++
+- [midihaskey](https://github.com/metachronica/audio-midihaskey)
+
 ### ANSI C
 - [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)
 - [bit-crusher](https://github.com/unclechu/lv2-ladspa-bit-crusher)
@@ -159,6 +164,12 @@
 ### Bash
 - [gpaste-zenity](https://github.com/unclechu/gpaste-zenity)
 - [bashrc](https://github.com/unclechu/bashrc)
+
+## Other types
+
+### SVG/Vector graphics
+- [metachronica/logo](https://github.com/metachronica/logo)
+- [livescript/artwork](https://github.com/livescript/artwork)
 
 ## Purpose
 
@@ -194,6 +205,10 @@
 ## Libraries
 - [qm-interpolated-string](https://github.com/unclechu/haskell-qm-interpolated-string)
 - [radio-class](https://github.com/unclechu/py-radio-class)
+
+## Logo
+- [metachronica/logo](https://github.com/metachronica/logo)
+- [livescript/artwork](https://github.com/livescript/artwork)
 
 ## Forks
 - **TODO**
