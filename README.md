@@ -32,6 +32,8 @@
   [backbone.radio](https://github.com/marionettejs/backbone.radio).
 - [gpaste-zenity](https://github.com/unclechu/gpaste-zenity)  
   A GUI for management [GPaste](https://github.com/Keruspe/GPaste) history.
+- [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)  
+  Some info that supposed to help to understand PureScript from Haskell perspective.
 
 ## Configs
 - [bashrc](https://github.com/unclechu/bashrc)  
@@ -137,6 +139,10 @@
 - [midihaskey](https://github.com/metachronica/audio-midihaskey)
 - [unclechu-i3-status](https://github.com/unclechu/unclechu-i3-status)
 - [xmonadrc](https://github.com/unclechu/xmonadrc)
+- [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
+
+### PureScript
+- [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
 
 ### C++
 - [midihaskey](https://github.com/metachronica/audio-midihaskey)
@@ -205,6 +211,9 @@
 ## Libraries
 - [qm-interpolated-string](https://github.com/unclechu/haskell-qm-interpolated-string)
 - [radio-class](https://github.com/unclechu/py-radio-class)
+
+## Docs
+- [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
 
 ## Logo
 - [metachronica/logo](https://github.com/metachronica/logo)
