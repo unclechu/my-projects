@@ -34,6 +34,10 @@
   A GUI for management [GPaste](https://github.com/Keruspe/GPaste) history.
 - [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)  
   Some info that supposed to help to understand PureScript from Haskell perspective.
+- [purescript-react-dropzone](https://github.com/unclechu/purescript-react-dropzone)  
+  PureScript bindings to [react-dropzone](https://github.com/react-dropzone/react-dropzone) package.
+- [purescript-react-rich-text-editor](https://github.com/unclechu/purescript-react-rich-text-editor)  
+  PureScript bindings to [react-rte](https://github.com/sstur/react-rte) package.
 
 ## Configs
 - [bashrc](https://github.com/unclechu/bashrc)  
@@ -143,6 +147,8 @@
 
 ### PureScript
 - [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
+- [purescript-react-dropzone](https://github.com/unclechu/purescript-react-dropzone)
+- [purescript-react-rich-text-editor](https://github.com/unclechu/purescript-react-rich-text-editor)
 
 ### C++
 - [midihaskey](https://github.com/metachronica/audio-midihaskey)
@@ -211,6 +217,8 @@
 ## Libraries
 - [qm-interpolated-string](https://github.com/unclechu/haskell-qm-interpolated-string)
 - [radio-class](https://github.com/unclechu/py-radio-class)
+- [purescript-react-dropzone](https://github.com/unclechu/purescript-react-dropzone)
+- [purescript-react-rich-text-editor](https://github.com/unclechu/purescript-react-rich-text-editor)
 
 ## Docs
 - [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
