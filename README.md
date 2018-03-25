@@ -30,8 +30,11 @@
 - [radio-class](https://github.com/unclechu/py-radio-class)  
   Event-bus implementation inspired by
   [backbone.radio](https://github.com/marionettejs/backbone.radio).
+- [gpaste-gui](https://github.com/unclechu/gpaste-gui)  
+  GUI utility for clipboard management of [GPaste](https://github.com/Keruspe/GPaste) daemon.
 - [gpaste-zenity](https://github.com/unclechu/gpaste-zenity)  
-  A GUI for management [GPaste](https://github.com/Keruspe/GPaste) history.
+  GUI utility for clipboard management of [GPaste](https://github.com/Keruspe/GPaste) daemon.  
+  *DEPRECATED* by [gpaste-gui](https://github.com/unclechu/gpaste-gui).
 - [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)  
   Some info that supposed to help to understand PureScript from Haskell perspective.
 - [purescript-react-dropzone](https://github.com/unclechu/purescript-react-dropzone)  
@@ -170,6 +173,7 @@
 - [radio-class](https://github.com/unclechu/py-radio-class)
 
 ### Perl
+- [gpaste-gui](https://github.com/unclechu/gpaste-gui)
 - [bashrc](https://github.com/unclechu/bashrc)
 - [tmuxrc](https://github.com/unclechu/tmuxrc)
 
@@ -213,6 +217,9 @@
   Deprecated:
   - [X11-my-custom-layouts](https://github.com/unclechu/X11-my-custom-layouts)
 - [place-cursor-at](https://github.com/unclechu/place-cursor-at)
+- [gpaste-gui](https://github.com/unclechu/gpaste-gui)  
+  Deprecated:
+  - [gpaste-zenity](https://github.com/unclechu/gpaste-zenity)
 
 ## Libraries
 - [qm-interpolated-string](https://github.com/unclechu/haskell-qm-interpolated-string)
