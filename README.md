@@ -41,6 +41,8 @@
   PureScript bindings to [react-dropzone](https://github.com/react-dropzone/react-dropzone) package.
 - [purescript-react-rich-text-editor](https://github.com/unclechu/purescript-react-rich-text-editor)  
   PureScript bindings to [react-rte](https://github.com/sstur/react-rte) package.
+- [my-pd-stuff](https://github.com/unclechu/my-pd-stuff)  
+  A collection of my own patches for Pure Data visual programming language.
 
 ## Configs
 - [bashrc](https://github.com/unclechu/bashrc)  
@@ -168,6 +170,9 @@
 - [signal-pusher](https://github.com/unclechu/faust-signal-pusher)
 - [channel-delay](https://github.com/unclechu/faust-channel-delay)
 
+### Pure Data
+- [my-pd-stuff](https://github.com/unclechu/my-pd-stuff)
+
 ### Python
 - [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
 - [radio-class](https://github.com/unclechu/py-radio-class)
@@ -199,6 +204,7 @@
 - [channel-delay](https://github.com/unclechu/lv2-channel-delay) (ANSI C)
 - [jacktoalsa](https://github.com/unclechu/jacktoalsa)
 - [pi-pedalboard](https://github.com/unclechu/pi-pedalboard)
+- [my-pd-stuff](https://github.com/unclechu/my-pd-stuff)
 
 #### MIDI
 - [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)
