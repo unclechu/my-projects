@@ -95,7 +95,6 @@
 - [sibtek-site](https://github.com/unclechu/sibtek-site)
 - [lushtags](https://github.com/unclechu/lushtags)
 - [haskell-experiment-shared-library-for-c-application](https://github.com/unclechu/haskell-experiment-shared-library-for-c-application)
-- [my-ultisnips](https://github.com/unclechu/my-ultisnips)
 - [node-deep-extend](https://github.com/unclechu/node-deep-extend)
 - [avto-lux161](https://github.com/unclechu/avto-lux161)
 - [js-react-redux-handle-typed-actions-experiment](https://github.com/unclechu/js-react-redux-handle-typed-actions-experiment)
