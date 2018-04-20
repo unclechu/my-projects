@@ -61,6 +61,8 @@
   Deprecated:
   - [vimrc2](https://github.com/unclechu/vimrc2)
   - [vimrc](https://github.com/unclechu/vimrc)
+- [vim-my-haskell](https://github.com/unclechu/vim-my-haskell)  
+  My own customizations of [haskell-vim-proto](https://github.com/sdiehl/haskell-vim-proto).
 - [i3rc](https://github.com/unclechu/i3rc)  
   My own [i3 X11 window manager](https://i3wm.org/) config.  
   Additional:
@@ -150,6 +152,7 @@
 - [xmonadrc](https://github.com/unclechu/xmonadrc)
 - [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
 - [carma-public](https://github.com/unclechu/carma-public)
+- [vim-my-haskell](https://github.com/unclechu/vim-my-haskell) (for Haskell)
 
 ### PureScript
 - [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
