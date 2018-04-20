@@ -2,19 +2,20 @@
 - [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack)  
   An utility that read bare events from GNU/Linux device file descriptor of
   a keyboard and triggers fake X11 events, improves experience of using keyboard.
+- [midihaskey](https://github.com/metachronica/audio-midihaskey)  
+  Virtual MIDI keyboard for microtonal music.
 - [place-cursor-at](https://github.com/unclechu/place-cursor-at)  
   An utility for X11 that helps to move cursor using only keyboard
   (at least reduces mouse usage).
 - [qm-interpolated-string](https://github.com/unclechu/haskell-qm-interpolated-string)  
   A library for Haskell that provides few Quasi-Quoters for building
   interpolated strings with free decorative alignment.
+- [haskell-data-maybe-preserve](https://github.com/unclechu/haskell-data-maybe-preserve)  
+  A library for Haskell that provides few helpers for `Maybe` data type.
 - [midi-trigger](https://github.com/metachronica/audio-dsp-midi-trigger)  
   An audio plug-in that generates MIDI notes by detecing peaks in audio signal.
 - [bit-crusher](https://github.com/unclechu/lv2-ladspa-bit-crusher)  
   An audio plug-in that provides downsampling and decreasing of bit-depth.
-- [midihaskey](https://github.com/metachronica/audio-midihaskey)  
-  Virtual MIDI keyboard for microtonal music.
-  **Work in progress (not ready to use yet)!**
 - [stereo-mixer](https://github.com/unclechu/lv2-stereo-mixer)  
   **TODO** add description
 - [signal-pusher](https://github.com/unclechu/faust-signal-pusher)  
@@ -145,9 +146,10 @@
 
 ### Haskell
 - [xlib-keys-hack](https://github.com/unclechu/xlib-keys-hack)
+- [midihaskey](https://github.com/metachronica/audio-midihaskey)
 - [place-cursor-at](https://github.com/unclechu/place-cursor-at)
 - [qm-interpolated-string](https://github.com/unclechu/haskell-qm-interpolated-string)
-- [midihaskey](https://github.com/metachronica/audio-midihaskey)
+- [haskell-data-maybe-preserve](https://github.com/unclechu/haskell-data-maybe-preserve)
 - [unclechu-i3-status](https://github.com/unclechu/unclechu-i3-status)
 - [xmonadrc](https://github.com/unclechu/xmonadrc)
 - [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
@@ -234,9 +236,10 @@
 
 ## Libraries
 - [qm-interpolated-string](https://github.com/unclechu/haskell-qm-interpolated-string)
-- [radio-class](https://github.com/unclechu/py-radio-class)
+- [haskell-data-maybe-preserve](https://github.com/unclechu/haskell-data-maybe-preserve)
 - [purescript-react-dropzone](https://github.com/unclechu/purescript-react-dropzone)
 - [purescript-react-rich-text-editor](https://github.com/unclechu/purescript-react-rich-text-editor)
+- [radio-class](https://github.com/unclechu/py-radio-class)
 
 ## Docs
 - [purescript-for-haskellers](https://github.com/unclechu/purescript-for-haskellers)
